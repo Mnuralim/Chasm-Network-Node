@@ -25,7 +25,7 @@ Step 2: Obtaining Your SCOUT_UID and WEBHOOK_API_KEY
 3. Log in to the website and retrieve your webhook API key and UID.
 
 Step 3: Get Auth Token from NGROK
-1. Register
+1. Register https://dashboard.ngrok.com/signup
 2. Go to "Your Authtoken"
 3. Click on the "Show Authtoken" button
 4. Copy & save the token
